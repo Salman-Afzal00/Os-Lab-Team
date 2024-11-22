@@ -18,5 +18,9 @@ struct Node {
 int main(){
     int i = 1;
     cout <<"helooooooo";
+
     
+}
+if(salman<= 18){
+    cout<<"gay";
 }
